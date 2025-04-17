@@ -1,5 +1,5 @@
-id = "Fiber-snippets"
-name = "Fiber Snippets"
+id = "fiber-snippets"
+name = "fiber Snippets"
 version = "0.1.0"
 schema_version = 1
 authors = ["Ayberk Gezer <ayberkgezer@outlook.com>"]
